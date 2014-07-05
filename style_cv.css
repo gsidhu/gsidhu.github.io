@@ -1,0 +1,91 @@
+/* Style Sheet for CV_web */
+body {
+	width: 95%;
+	margin-left: 2.5%;
+	font-family: helvetica, georgia, verdana, serif;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	color: #FF944D;
+	text-decoration: underline;
+}
+
+.header {
+	line-height: 15px;
+	vertical-align: middle;
+}
+
+.header h1{
+	text-align: center;
+	font-size: 22px;
+}
+	
+.header h3 {
+	font-size: 12px;
+}
+
+.header table {
+	width: 100%;
+	position: relative;
+}
+
+.header table p {
+	margin-top: -10px;
+}
+
+.header .contact {
+	text-align: right;
+	width: 50%;
+}
+
+hr {
+	margin-top: -10px;
+}
+
+/* --------------- Header ends here --------------- */
+
+.content {
+	height: 70%;
+}
+
+.content .left {
+	text-align: left;
+	width: 35%;
+	border-right: 1px solid #000000;
+}
+
+.content .right {
+	text-align: right;
+	width: 35%;
+}
+
+.content h2 {
+	font-size: 14px;
+}
+
+.content h3,
+.content p {
+	font-size: 12px;
+	margin-top: -10px;
+}
+
+.content ul {
+	list-style-type: none;
+	text-decoration: none;
+    margin: -10px 0 0 0;
+    padding: 0;
+}
+
+.content li {
+	font-size: 12px;
+}
+
+.content .left #date {
+	text-decoration: none;
+}
+
