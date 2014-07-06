@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+	<div class="header">
+		<h1><a href="index.html">That Gurjot</a></h1>
+
+		<h3> You Found Me </h3>
+		<hr>
+		<ul id ="navbar">
+			<li id="links"><a href="index.html">Blog</a></li>
+			<li id="links"><a href="bio.html">Bio</a></li>
+			<li id="links"><a href="cv.html">CV</a></li>
+			<li id="links"><a href="stalk.html">Stalk</a></li>
+			<li id="except"><a href="updates.html">Updates</a></li>
+		</ul>
+		<hr>
+	</div>
+
+      {{ content }}
+
+	<div class="footer">
+		<hr>
+		<h2><a href="index.html">That Gurjot</a></h2>
+		<h4> &copy; {{ site.time | date: '%Y' }}. All rights reserved. Built with &#9829; and lots of chocolate. </h4>
+    </div>
+
+  </body>
+</html>

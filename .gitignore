@@ -1,0 +1,6 @@
+/_site
+/Gemfile~
+/*.html~
+/_posts/*.md~
+/_layouts/*.html~
+/.gitignore~

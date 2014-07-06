@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /blog/:title
+
+author:
+  name:           'Gurjot Sidhu'
+  url:            https://twitter.com/gurjotsidhu
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/gsidhu/gsidhu.github.io
