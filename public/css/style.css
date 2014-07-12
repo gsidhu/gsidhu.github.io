@@ -214,6 +214,11 @@ hr {
 	text-decoration: underline;
 }
 
+.posts .post ol strong a,
+.posts .post ul strong a {
+	text-decoration: none;
+}
+ 
 .content .bio img {
 	width: 150px;
 	height: 150px;
