@@ -4,3 +4,4 @@
 /_posts/*.md~
 /_layouts/*.html~
 /.gitignore~
+/public/css/*.css~
