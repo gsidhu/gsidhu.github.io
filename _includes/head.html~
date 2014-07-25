@@ -12,7 +12,7 @@
   <link href='http://fonts.googleapis.com/css?family=Economica:700' rel='stylesheet' type='text/css'>
   
   <!-- CSS -->
-  <link href="/public/css/style.css" rel="stylesheet" type="text/css">	
+  <link href="../public/css/style.css" rel="stylesheet" type="text/css">	
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">

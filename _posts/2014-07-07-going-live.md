@@ -1,6 +1,11 @@
 ---
 layout: blup
+title: The Site is Now Live
+excerpt: Indeed it is.
 ---
+# The Site is Now LIVE!
+
+### 07 Jul 2014
 
 Indeed it is.
 
