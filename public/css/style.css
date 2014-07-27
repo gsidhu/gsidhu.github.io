@@ -41,6 +41,11 @@ hr {
 	width: 75%;
 }
 
+.divider {
+	width: 30%;
+	margin: 5% auto 5% auto;
+}
+
 #first-letter {
 	font-size: 48px;
 	font-family: 'Economica', sans-serif;
@@ -156,7 +161,7 @@ hr {
 
 .posts .post .post-date {
 	height: 100%;
-	margin: -2% 20% auto 20%;
+	margin: -2% 20% 10px 20%;
 	text-align: center;
 	font-family: 'Economica', sans-serif;
 	font-size: 16px;
@@ -202,6 +207,10 @@ hr {
 .posts .post ol strong a,
 .posts .post ul strong a {
 	text-decoration: none;
+}
+
+.posts .post .excerpt {
+	text-align: center;
 }
  
 .content .bio img {

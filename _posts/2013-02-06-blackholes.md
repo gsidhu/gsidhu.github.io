@@ -26,7 +26,7 @@ _(insert dramatic science music here)_
 
 ## BLACK HOLES
 
-When a star runs out of energy and is too massive to be stabilized by neutron degeneracy it starts to reduce in volume and grows so small in size that a stage is reached where its density becomes so high and its gravitational attraction so large that it becomes a region in spacetime which prevents_anything_, including light from escaping. Thus aptly named **Black hole**.
+When a star runs out of energy and is too massive to be stabilized by neutron degeneracy it starts to reduce in volume and grows so small in size that a stage is reached where its density becomes so high and its gravitational attraction so large that it becomes a region in spacetime which prevents _anything_, including light from escaping. Thus, aptly named - a **Black hole**.
 Mathematically, anything can become a black hole, if only it could be compressed to a certain parameter called the **Schwarzchild Radius**. Compress an object to that size and voilà, we have a black hole.
 
 _"O Great One! How do we calculate this amazing radius?"_

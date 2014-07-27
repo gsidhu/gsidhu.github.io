@@ -7,7 +7,8 @@ layout: home
   <div class="post">
     <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	<h4 class="post-date">{{ post.date | date_to_string }}</h4>
-	  {{ post.excerpt }}
+	  <div class="excerpt"> {{ post.excerpt }} </div>
+	<hr class="divider">
   </div>
   {% endfor %}
 </div>
