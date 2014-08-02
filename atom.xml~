@@ -18,10 +18,12 @@ layout: nil
  {% for post in site.posts %}
  <item>
    <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <link> {{ site.url }}{{ post.url }}</link>
+   <pubdate>{{ post.date | date_to_xmlschema }}</pubdate>
+   <author> {{site.author.name}} </author>
    <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <excerpt> {{ post.excerpt }} </excerpt>
+   <description>{{ post.content | xml_escape }}</description>
  </item>
  {% endfor %}
 
