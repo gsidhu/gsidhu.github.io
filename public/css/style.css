@@ -204,6 +204,13 @@ hr {
 	text-decoration: underline;
 }
 
+.posts .post #block {
+	text-decoration: none;
+	margin-left: 5%;
+	text-align: center;
+	
+}
+
 .posts .post ol strong a,
 .posts .post ul strong a {
 	text-decoration: none;
