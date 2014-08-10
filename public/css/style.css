@@ -1,8 +1,9 @@
 /* Radical Surd style sheet */
 
 body {
-	font-size: 14px;
-	font-family: helvetica, georgia, verdana, serif;
+	font-size: 18px;
+	font-family: "adobe-caslon-pro",Times,Georgia,serif;
+/*	font-family: helvetica, georgia, verdana, serif;*/
 }
 
 body a {
@@ -30,6 +31,13 @@ body a:before {
   -webkit-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
 }
+
+/*.header {
+	width: 100%;
+	-webkit-box-shadow: 0 0px 10px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: 0 0px 10px rgba(0, 0, 0, 0.6);
+	box-shadow: 0 0px 10px rgba(0, 0, 0, 0.6);
+}*/
 
 .header a:hover:before {
   visibility: visible;
@@ -171,11 +179,12 @@ hr {
 	width: 60%;
 	margin-left: 20%;
 	text-align: left;
-	font-family: helvetica, georgia, verdana, serif;
+	font-family: "adobe-caslon-pro",Times,Georgia,serif;
+/*	font-family: helvetica, georgia, verdana, serif;*/
 }
 	
 .posts .post p {
-	font-size: 14px;
+	font-size: 20px;
 }
 
 .posts .post h1 {
@@ -193,7 +202,7 @@ hr {
 }
 
 .posts .post h3 {
-	font-size: 16px;
+	font-size: 22px;
 	height: 100%;
 	margin: -2% 20% auto 20%;
 	text-align: center;
@@ -232,7 +241,7 @@ hr {
 	top: 50%;
 	left: 50%;
 	margin-left: -30.0%;
-	margin-top: 20%;
+	margin-top: 15%;
 	vertical-align: center;
 	text-align: center;
 	text-transform: uppercase;
@@ -256,7 +265,6 @@ hr {
 	width: 70%;
 	height: 40%;
 	position: relative;
-	top: 50%;
 	left: 50%;
 	margin-left: -35.0%;
 	vertical-align: center;
@@ -267,7 +275,7 @@ hr {
 }
 
 .content .stalk #first {
-	margin-top: 15%;
+	margin-top: 10%;
 }
 
 .content .stalk #second {
