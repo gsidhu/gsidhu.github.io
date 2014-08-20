@@ -229,6 +229,10 @@ hr {
 	text-align: center;
 }
  
+blockquote {
+	font-style: italic;
+}
+
 .content .bio img {
 	width: 150px;
 	height: 150px;

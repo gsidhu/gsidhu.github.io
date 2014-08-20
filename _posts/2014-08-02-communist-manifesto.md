@@ -21,26 +21,38 @@ The historical context in the part 1 was especially important. I really liked th
 
 The ten commandments of the communists that he lists at the end of **Proletarians and Communists** -   
 
-* Abolition of property in land and application of all rents of land to public purposes.
-<blockquote> Agreed. Always wanted this. </blockquote>
-* A heavy progressive or graduated income tax.
-<blockquote> Tricky. Don't know what it means.</blockquote>
-* Abolition of all right of inheritance.
-<blockquote> All smart people acquiesce to this sooner or later.</blockquote>
-* Confiscation of the property of all emigrants and rebels.
-<blockquote> What. No.</blockquote>
-* Centralisation of credit in the hands of the State, by means of a national bank with State capital and an exclusive monopoly.
-<blockquote> Don't know what it means.</blockquote>
-* Centralisation of the means of communication and transport in the hands of the State.
-<blockquote> If it works well, okay.</blockquote>
-* Extension of factories and instruments of production owned by the State; the bringing into cultivation of waste-lands, and the improvement of the soil generally in accordance with a common plan.
-<blockquote> Of course, good stuff.</blockquote>
-* Equal liability of all to labour. Establishment of industrial armies, especially for agriculture.
-<blockquote> Don't know what it means.</blockquote>
-* Combination of agriculture with manufacturing industries; gradual abolition of the distinction between town and country, by a more equitable distribution of the population over the country.
-<blockquote> I disagree slightly. I would still want my old country retreat.</blockquote>
-* Free education for all children in public schools. Abolition of children's factory labour in its present form and combination of education with industrial production.
-<blockquote> Agree-disagree. Free education, okay. Last bit, true in 1848, not now.</blockquote>  
+
+<blockquote> Abolition of property in land and application of all rents of land to public purposes. </blockquote>
+Agreed. Always wanted this.
+
+
+<blockquote>A heavy progressive or graduated income tax.</blockquote>
+Tricky. Don't know what it means.
+
+<blockquote>Abolition of all right of inheritance. </blockquote>
+All smart people acquiesce to this sooner or later.
+
+<blockquote>Confiscation of the property of all emigrants and rebels. </blockquote>
+What. No.
+
+<blockquote>Centralisation of credit in the hands of the State, by means of a national bank with State capital and an exclusive monopoly.
+</blockquote>
+Don't know what it means.
+
+<blockquote>Centralisation of the means of communication and transport in the hands of the State.</blockquote>
+If it works well, okay.
+
+<blockquote>Extension of factories and instruments of production owned by the State; the bringing into cultivation of waste-lands, and the improvement of the soil generally in accordance with a common plan. </blockquote>
+Of course, good stuff.
+
+<blockquote>Equal liability of all to labour. Establishment of industrial armies, especially for agriculture.</blockquote>
+Don't know what it means.
+
+<blockquote>Combination of agriculture with manufacturing industries; gradual abolition of the distinction between town and country, by a more equitable distribution of the population over the country. </blockquote>
+I disagree slightly. I would still want my old country retreat.
+
+<blockquote>Free education for all children in public schools. Abolition of children's factory labour in its present form and combination of education with industrial production.</blockquote>
+Agree-disagree. Free education, okay. Last bit, true in 1848, not now.  
 
 My knowledge of communism so far was based entirely on hearsay and there were so many new ideas in the manifesto that I had no idea about earlier. The idea of relinquishing private property and the rationale provided for it stood out particularly -  
 <blockquote> "In your existing society, private property exists solely due to its nonexistence in the hands of nine-tenths of the society."</blockquote>  
