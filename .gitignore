@@ -1,7 +1,10 @@
 /_site
+/server
 /Gemfile~
 /*.html~
 /_posts/*.md~
 /_layouts/*.html~
 /.gitignore~
 /public/css/*.css~
+/_config.yml~
+/_includes/head.html~
