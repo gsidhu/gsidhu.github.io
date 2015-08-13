@@ -4,19 +4,14 @@
   {% include head.html %}
 
   <body>
-
 	<div class="posts">
 	<div class="post">
-		  {{ content }}
+	  {{ content }}
     </div>
 	</div>
+	{% include foot.html %}  
+</body>
 
-	<div class="footer2">
-		<hr>
-		<h2><a href="/index.html">That Gurjot</a></h2>
-		<h4><a href="#top">Back to top</a></h4>
-		<h4> &copy; {{ site.time | date: '%Y' }}. All rights reserved. Built with &#9829; and lots of chocolate. </h4>
-    </div>
+  
 
-  </body>
 </html>

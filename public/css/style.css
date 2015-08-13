@@ -241,8 +241,7 @@ blockquote {
 	height: 40%;
 	position: relative;
 	top: 50%;
-	left: 50%;
-	margin-left: -30.0%;
+	left: 20%;
 	margin-top: 15%;
 	vertical-align: center;
 	text-align: center;
@@ -267,8 +266,7 @@ blockquote {
 	width: 80%;
 	height: 40%;
 	position: relative;
-	left: 50%;
-	margin-left: -40.0%;
+	left: 10%;
 	vertical-align: center;
 	text-align: center;
 	text-transform: uppercase;
@@ -333,11 +331,11 @@ blockquote {
 }
 
 .footer {
-	position: fixed;
+	position: relative;
 }
 
 .footer2 {
-	position: relative;
+	position: fixed;
 }
 
 /* ------------ Hacky stuff ------------ */
@@ -346,7 +344,37 @@ blockquote {
 }
 
 /* ------------ Spinner ------------- */
+.infinite-spinner {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #333;
+  margin: 60px auto;
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
 
+@-webkit-keyframes scaleout {
+  0% { -webkit-transform: scale(0.0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleout {
+  0% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 100% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+/*
 .spinner {
   margin: 100px auto 0;
   width: 70px;
@@ -362,7 +390,6 @@ blockquote {
   display: inline-block;
   -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
   animation: bouncedelay 1.4s infinite ease-in-out;
-  /* Prevent first frame from flickering when animation starts */
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -390,8 +417,8 @@ blockquote {
     transform: scale(1.0);
     -webkit-transform: scale(1.0);
   }
-}
-
+} 
+*/
 /* ------------ 404 Page ------------ */
 
 .page-404 {

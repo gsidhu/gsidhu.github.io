@@ -5,13 +5,8 @@
 
   <body>
 
-      {{ content }}
-
-	<div class="footer">
-		<hr>
-		<h2><a href="/index.html">That Gurjot</a></h2>
-		<h4> &copy; {{ site.time | date: '%Y' }}. All rights reserved. Built with &#9829; and lots of chocolate. </h4>
-    </div>
-
+	{{ content }}
+	{% include foot2.html %}
   </body>
+
 </html>

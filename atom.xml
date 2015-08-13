@@ -1,28 +1,25 @@
 ---
-layout: default
 ---
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
+ <title>Gurjot Sidhu</title>
+ <link href="http://gsidhu.github.io/atom.xml" rel="self"/>
+ <link href="http://gsidhu.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>http://gsidhu.github.io/</id>
  <author>
-   <name>{{ site.author.name }}</name>
+   <name>Gurjot Sidhu</name>
+   <email>gsidhu22 at gmail dot com</email>
  </author>
 
  {% for post in site.posts %}
  <item>
    <title>{{ post.title }}</title>
-   <link> {{ site.url }}{{ post.url }}</link>
+   <link href="http://gsidhu.github.io{{ post.url }}"/>
    <pubdate>{{ post.date | date_to_xmlschema }}</pubdate>
-   <author> {{site.author.name}} </author>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <excerpt> {{ post.excerpt }} </excerpt>
-   <description>{{ post.content | xml_escape }}</description>
+   <id>gsidhu.github.io{{ post.id }}</id>
+   <description type="html">{{ post.excerpt | xml_escape }}</description>
  </item>
  {% endfor %}
 
