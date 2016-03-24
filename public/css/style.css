@@ -145,7 +145,9 @@ hr {
 	height: 100%;
 }
 
-.center-image {
+/* Center the embedded images and videos */
+.center-image,
+.iframe {
     margin: 0 auto;
     display: block;
 }
