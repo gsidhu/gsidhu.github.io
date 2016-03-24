@@ -39,20 +39,15 @@
 	});
 	</script>
 
-  <!-- Infinte Scroll -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="./js/infinite-jekyll.js"></script>
-
-  <!-- Google Analytics -->
+  <!-- Open External Links in New Tab -->
   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	var links = document.links;
 
-  ga('create', 'UA-54006622-1', 'auto');
-  ga('send', 'pageview');
-
+	for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+	   if (links[i].hostname != window.location.hostname) {
+	       links[i].target = '_blank';
+	   } 
+	}
   </script>
 
 	<div class="header">
@@ -68,5 +63,4 @@
 		</ul>
 		<hr>
 	</div>
-
 </head>

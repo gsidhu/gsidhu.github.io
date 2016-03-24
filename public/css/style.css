@@ -145,6 +145,11 @@ hr {
 	height: 100%;
 }
 
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
+
 .posts .post .post-title,
 .post .post-title {
 	text-align: center;

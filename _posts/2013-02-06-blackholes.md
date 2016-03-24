@@ -46,21 +46,21 @@ Now comes the fun. An average human has a Schwarzchild radius of the order of 10
 
 What if the Earth were to become a black hole? What would its Schwarzchild radius be?
 Here's your answer:
-<img>[](http://qph.cf.quoracdn.net/main-qimg-a61000b32de3af5136b2943bf1e95a7d)</img>
+![](/assets/Images/black_grapes.jpg){: .center-image }
 _That's 14 Earth-blackholes_
 1 inch! For Earth to become a black hole you would have to compress its entire mass into a volume of radius 1 inch!
 
 _"Whoa... Sensei, if a black hole is.. black? How do we see it in space?"_
 
-Bear with me for a while as I speak some science. Whenever there's a massive body in the field of light, it bends its path. Since a black hole is as dense as anything could get, it bends the light so much so that all we see is a smudge. So if I were to look at the Leaning Tower of Pisa with a black hole blocking the view, the Tower would appear to circle around the dark center, everything   would be fuzzy though. Putting this thought into the Universal picture now, imagine a galaxy far far away. Any light that that galaxy emits will appear to circle around the black hole in between. So this is how we _see_the black holes in space.
-[](http://qph.cf.quoracdn.net/main-qimg-b40b23a008eb06584743ab3af2b86ff9)
+Bear with me for a while as I speak some science. Whenever there's a massive body in the field of light, it bends its path. Since a black hole is as dense as anything could get, it bends the light so much so that all we see is a smudge. So if I were to look at the Leaning Tower of Pisa with a black hole blocking the view, the Tower would appear to circle around the dark center, everything   would be fuzzy though. Putting this thought into the Universal picture now, imagine a galaxy far far away. Any light that that galaxy emits will appear to circle around the black hole in between. So this is how we _see_ the black holes in space.
+![](/assets/Images/blackhole_eye.jpg){: .center-image }
 _The purple ring around the center is the light from the distant galaxy_
 
 _"Alright. Good enough. But wouldn't a black hole just suck up the entire universe?"_
 
-Ha, no. Thank God (sparking another debate with this) for that. There's another parameter called _Event Horizon_. In general relativity it is a boundary in spacetime beyond which events can not affect an outside observer. For a black hole any object within this boundary is good as dead.* So event horizon is like the [Lakshmana Rekha](http://en.wikipedia.org/wiki/Lakshmana_rekha) for the rest of the Universe.
+Ha, no. Thank God (sparking another debate with this) for that. There's another parameter called _Event Horizon_. In general relativity it is a boundary in spacetime beyond which events can not affect an outside observer. For a black hole any object within this boundary is good as dead.* So event horizon is like the [Lakshmana Rekha](http://en.wikipedia.org/wiki/Lakshmana_rekha){:target="_blank"} for the rest of the Universe.
 
-**EXCEPT SILVER SURFER**! In [Galactus the Devourer](http://marvel.wikia.com/Galactus_the_Devourer), Silver Surfer did actually escape from a black hole!
+**EXCEPT SILVER SURFER**! In [Galactus the Devourer](http://marvel.wikia.com/Galactus_the_Devourer){:target="_blank"}, Silver Surfer did actually escape from a black hole!
 
 Just for shits and giggles, let's see what would happen if an object or maybe *insert your favourite enemy* were to fall into a black hole. How would it look like to an observer? And more importantly, how would it feel like?
 
@@ -100,7 +100,11 @@ _“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, th
 
 **Sources:**
 
-* Stephen Hawking : [Into a Black Hole](http://www.hawking.org.uk/into-a-black-hole.html)
-* Guardian UK : [What's inside a black hole?](http://www.guardian.co.uk/science/blog/2008/dec/10/black-hole)
-* Wiki : [Black hole](http://en.wikipedia.org/wiki/Black_hole)
-* Coursera : [Introduction to Astronomy](https://www.coursera.org/course/introastro)
+* Stephen Hawking : [Into a Black Hole](http://www.hawking.org.uk/into-a-black-hole.html){:target="_blank"}
+* Guardian UK : [What's inside a black hole?](http://www.guardian.co.uk/science/blog/2008/dec/10/black-hole){:target="_blank"}
+* Wiki : [Black hole](http://en.wikipedia.org/wiki/Black_hole){:target="_blank"}
+* Coursera : [Introduction to Astronomy](https://www.coursera.org/course/introastro){:target="_blank"}
+
+-----------
+Here's a test video:  
+{% include youtube_embed.html id="oHg5SJYRHA0" %}

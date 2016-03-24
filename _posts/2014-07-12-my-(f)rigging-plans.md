@@ -2,6 +2,7 @@
 layout: blup
 title: My Friggin' Plans
 excerpt: I have been hogging Github's servers for nearly a week now, so I decided to find a faux justification for it - this post.
+published: false
 ---
 # My Friggin' Plans
 
