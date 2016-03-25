@@ -31,12 +31,8 @@ When a star runs out of energy and is too massive to be stabilized by neutron de
 Mathematically, anything can become a black hole, if only it could be compressed to a certain parameter called the **Schwarzchild Radius**. Compress an object to that size and voilà, we have a black hole.
 
 _"O Great One! How do we calculate this amazing radius?"_
-We use a thing called _gravitational red shift_. Leaving out the Newtoning as promised, we come down to this:  
-$$
-\begin{align}
-  R_s = \frac{2GM}{c^2}
-\end{align}
-$$
+We use a thing called _gravitational red shift_. Leaving out the Newtoning as promised, we come down to this: 
+$$R_s = \frac{2GM}{c^2}$$  
 
 Where $$R_s$$ is our Schwarzchild radius, G the Universal gravitational constant, c the speed of light in vacuum and M is the mass of the body in question.
 
@@ -46,16 +42,15 @@ Oh, ain't good at math? Or not in a mood for some Newtoning? Just type "2* G *M/
 Now comes the fun. An average human has a Schwarzchild radius of the order of 10^-25 metres. How small is that you might wonder? Allow me to devise a new unit, a _nanofemtometer_. That is very, very small. Just take my word for it. Here's a parallel. 1 femtometer is equal to 10^-15 m; atomic nuclei have a size of that order.
 
 What if the Earth were to become a black hole? What would its Schwarzchild radius be?
-Here's your answer:
-![](/assets/Images/black_grapes.jpg){: .center-image }
-_That's 14 Earth-blackholes_  
+Here's a picture of 14 Earth black holes:
+![](/assets/Images/black_grapes.jpg){: .center-image }  
 1 inch! For Earth to become a black hole you would have to compress its entire mass into a volume of radius 1 inch!
 
 _"Whoa... Sensei, if a black hole is.. black? How do we see it in space?"_
 
-Bear with me for a while as I speak some science. Whenever there's a massive body in the field of light, it bends its path. Since a black hole is as dense as anything could get, it bends the light so much so that all we see is a smudge. So if I were to look at the Leaning Tower of Pisa with a black hole blocking the view, the Tower would appear to circle around the dark center, everything   would be fuzzy though. Putting this thought into the Universal picture now, imagine a galaxy far far away. Any light that that galaxy emits will appear to circle around the black hole in between. So this is how we _see_ the black holes in space.
-![](/assets/Images/blackhole_eye.jpg){: .center-image }
-_The purple ring around the center is the light from the distant galaxy_
+Bear with me for a while as I speak some science. Whenever there's a massive body in the field of light, it bends its path. Since a black hole is as dense as anything could get, it bends the light so much so that all we see is a smudge. So if I were to look at the Leaning Tower of Pisa with a black hole blocking the view, the Tower would appear to circle around the dark center, everything   would be fuzzy though. Putting this thought into the Universal picture now, imagine a galaxy far far away. Any light that that galaxy emits will appear to circle around the black hole in between. So this is how we _see_ the black holes in space.  
+![](/assets/Images/blackhole_eye.jpg){: .center-image }  
+The purple ring around the center is the light from the distant galaxy.
 
 _"Alright. Good enough. But wouldn't a black hole just suck up the entire universe?"_
 
