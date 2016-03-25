@@ -2,6 +2,7 @@
 layout: blup
 title: My Take on The Communist Manifesto
 excerpt: My first take on the Holy Bible of communists. Well, technically the first take was many years ago, but that was unintentional.
+comments: True
 ---
 # My Take on The Communist Manifesto
 

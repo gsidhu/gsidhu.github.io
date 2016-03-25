@@ -2,6 +2,7 @@
 layout: blup
 title: Why Feature Phones Are Better Than Smartphones
 excerpt: I have returned to my old and faithful Nokia 1661.This phone’s USP is its flashlight and speaking clock.
+comments: True
 ---
 
 # Why Feature Phones Are Better Than Smartphones

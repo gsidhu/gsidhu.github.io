@@ -211,7 +211,7 @@ hr {
 	height: 100%;
 	margin: -2% 20% auto 20%;
 	text-align: center;
-/*	font-family: 'Economica', sans-serif;*/
+	font-family: 'Economica', sans-serif;
 }
 
 .posts .post a {
@@ -314,6 +314,18 @@ blockquote {
 	left: 50%;
 	margin-left: -35.0%;
 	margin-top: 16%;
+}
+
+#disqus_thread {
+	width: 60%;
+	margin-left: 20%;
+}
+
+#archive-list ul {
+	margin-left:25%;
+	font-size: 18px;
+	font-family: 'Economica', sans-serif;
+	list-style-type: none;
 }
 
 .footer,

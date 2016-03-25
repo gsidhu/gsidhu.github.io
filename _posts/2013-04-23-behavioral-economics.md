@@ -2,6 +2,7 @@
 layout: blup
 title: Behavioral Economics 
 excerpt: The following article is my submission for the writing assignment of the introductory behavioral economics course ...
+comments: True
 ---
 # Behavioral Economics
 

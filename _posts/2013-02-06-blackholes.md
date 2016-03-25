@@ -2,6 +2,7 @@
 layout: blup
 title: Blackholes, Grapes and Silver Surfer
 excerpt: When a star runs out of energy and is too massive to be stabilized by neutron degeneracy it starts to reduce in volume ...
+comments: True
 ---
 # Blackholes, Grapes and Silver Surfer
 
@@ -47,7 +48,7 @@ Now comes the fun. An average human has a Schwarzchild radius of the order of 10
 What if the Earth were to become a black hole? What would its Schwarzchild radius be?
 Here's your answer:
 ![](/assets/Images/black_grapes.jpg){: .center-image }
-_That's 14 Earth-blackholes_
+_That's 14 Earth-blackholes_  
 1 inch! For Earth to become a black hole you would have to compress its entire mass into a volume of radius 1 inch!
 
 _"Whoa... Sensei, if a black hole is.. black? How do we see it in space?"_

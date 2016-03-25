@@ -2,6 +2,7 @@
 layout: blup
 title: PARITY TIME! Let's Drill Holes in CDs
 excerpt: Digital electronics is pretty interesting; the fact that everything inside my laptop or my smartphone is based on a tiny little ...
+comments: True
 ---
 # PARITY TIME! Let's Drill Holes in CDs
 

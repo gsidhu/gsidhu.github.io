@@ -2,6 +2,7 @@
 layout: blup
 title: The (Re)tired Sheriff
 excerpt: This is a piece of flash fiction I'd left incomplete back in June 2013. I found it yesterday and decided to complete it.
+comments: True
 ---
 # The (Re)tired Sheriff
 
