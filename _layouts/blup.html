@@ -11,7 +11,12 @@
 	{% include comments.html %}
 
 	</div>
-	{% include foot.html %}  
+	{% if page.footer == "plain" %} 
+		{% include foot2.html %}
+	{% else %}
+		{% include foot.html %}
+	{% endif %}
+
 </body>
 
   

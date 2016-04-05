@@ -5,7 +5,11 @@
 
   <body>
 	{{ content }}
-	{% include foot2.html %}
+	{% if page.footer == "plain" %} 
+		{% include foot2.html %}
+	{% else %}
+		{% include foot.html %}
+	{% endif %}
   </body>
 
 </html>
