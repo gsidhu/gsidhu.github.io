@@ -293,7 +293,7 @@ blockquote {
 	vertical-align: center;
 	list-style-type: none;
 	display: inline;
-    margin-right: 25px;
+  	margin-right: 25px;
 	text-decoration: none;
 }
 
@@ -359,16 +359,19 @@ blockquote {
 
 .share-page {
 	text-align: center;
+	font-size: 18px;
+	height: 100%;
+	margin: -2% 20% auto 20%;
+	text-align: center;
+	font-family: 'Economica', sans-serif;
 	padding: 8px 15px;
 	margin: 1.5px;
 }
 .share-page a {
-	font-weight: 700;
-	color: #fff;
-	margin-left: 10px;
+	text-decoration: none;
 }
 .share-page a:hover {
-	border-bottom: 1px dashed #fff;
+	border-bottom: 0.6px solid #000000;
 }
 
 /* ------------ Hacky stuff ------------ */
