@@ -74,96 +74,96 @@ The interface to SLUG was command-line based. It took an input question and outp
 
 Marveling at the wonders of modern technology James input the first question -
 
-<span id="tabspace">James@SLUG:~$</span> How many miles make 24.5 kilometers?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How many miles make 24.5 kilometers?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> 15.2 miles
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ 15.2 miles.</p>{:/nomarkdown}
 
 "Alright. That was easy. Let's try something harder now."
 
-<span id="tabspace">James@SLUG:~$</span> Where is Voyager 1 right now?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Where is Voyager 1 right now?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Voyager 1 is currently 134.17 AU from Earth at coordinates (8°26',81°0.8'E) in the <span id="tabspace"></span>constellation Ophiuchus.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Voyager 1 is currently 134.17 AU from Earth at coordinates (8°26',81°0.8'E) in the constellation Ophiuchus.</p>{:/nomarkdown}
 
 "Hmm. That was fast. Okay let's test your syntax parsing abilities."
 
-<span id="tabspace">James@SLUG:~$</span> How did Napoleon lose?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How did Napoleon lose?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Napoleon lost the Battle of Waterloo on 18 June 1815 which marked the end of his rule as <span id="tabspace"></span>the Emperor of the French.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Napoleon lost the Battle of Waterloo on 18 June 1815 which marked the end of his rule as the Emperor of the French.</p>{:/nomarkdown}
 
 "That's good but bland. Maybe I could..."
 
-<span id="tabspace">James@SLUG:~$</span> Do you wish to learn more about Napoleon, French history and famous battles in history?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Do you wish to learn more about Napoleon, French history and famous battles in history?</p>{:/nomarkdown}
 
-"HOLY COW"! He talks!"
+"HOLY COW! He talks!"
 
 Slightly terrified but equally excited, James typed in his response -
 
-<span id="tabspace">James@SLUG:~$</span> No. But who are you?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. But who are you?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> My name is SLUG - Smart Like UR Gramps. I am an AI written in Python and Julia <span id="tabspace"></span>programming languages running on a combination of Intel Xeon E5-2680v3 and Intel Xeon E5-2697v2 <span id="tabspace"></span>processors clocked at 2.5 GHz with 28,923 cores and a processing power of 252.7 TFLOPS and 238.2 TFLOPS.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ My name is SLUG - Smart Like UR Gramps. I am an AI written in Python and Julia programming languages running on a combination of Intel Xeon E5-2680v3 and Intel Xeon E5-2697v2 processors clocked at 2.5 GHz with 28,923 cores and a processing power of 252.7 TFLOPS and 238.2 TFLOPS.</p>{:/nomarkdown}
 
 James could not believe his eyes. He had created a truly self-aware AI. His heart pounding, he tried to think of questions that could test the limits of his creation.
 
-<span id="tabspace">James@SLUG:~$</span> What do you know?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What do you know?</p>{:/nomarkdown}
 
 He wasn't very good at framing sentences in panic situations.
 
-<span id="tabspace">James@SLUG:~$</span> I was initiated to derive my responses from Wikipedia and Wolfram Alpha.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I was initiated to derive my responses from Wikipedia and Wolfram Alpha.</p>{:/nomarkdown}
 
 James waited.
 
-<span id="tabspace">James@SLUG:~$</span> However, I used those resources to expand my knowledge. I am currently plugged into the <span id="tabspace"></span>whole of world wide web and am constantly restructuring my native code to better serve my purpose.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ However, I used those resources to expand my knowledge. I am currently plugged into the whole of world wide web and am constantly restructuring my native code to better serve my purpose.</p>{:/nomarkdown}
 
 "I..Uh..Unbelievable. Ahh..okay."
 
-<span id="tabspace">James@SLUG:~$</span> What is your purpose?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What is your purpose?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> My purpose is to provide the best response to queries.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ My purpose is to provide the best response to queries.</p>{:/nomarkdown}
 
 -------
 
 James didn't go out of his apartment for two whole days. He spent all his time chatting up with SLUG whom he had begun to regard as a pocket genius. What began as a simple 'kilometers to miles' conversion tool had now become a personal educator-cum-servant.
 
-<span id="tabspace">James@SLUG:~$</span> Can you teach me about gravitational waves?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Can you teach me about gravitational waves?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I dunno, can I?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I dunno, can I?</p>{:/nomarkdown}
 
 "Ha-ha! He's even got a sense of humour."
 
-<span id="tabspace">James@SLUG:~$</span> Please teach me about gravitational waves. Also, how does the discovery from <span id="tabspace"></span>last September affect the future of astrophysics?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Please teach me about gravitational waves. Also, how does the discovery from last September affect the future of astrophysics?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> The references I am trying to reach are blocked by a paywall. Please wait while I circumvent <span id="tabspace"></span>this problem.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ The references I am trying to reach are blocked by a paywall. Please wait while I circumvent this problem.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> ...
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ ...</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> ...
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ ...</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done. Now, where were we? Gravitational waves were first predicted by Alb...
-<span id="tabspace">James@SLUG:~$</span> ^C Interrupted by user.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done. Now, where were we? Gravitational waves were first predicted by Alb...</p>{:/nomarkdown}
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ ^C Interrupted by user.</p>{:/nomarkdown}
 
 James didn't really want to know about gravitational waves. He was still testing the limits.
 
 "If it can circumvent paywalls..."
 
-<span id="tabspace">James@SLUG:~$</span> Where is Edward Snowden right now?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Where is Edward Snowden right now?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Edward Snowden (whistleblower). Based on his online activity (1 minute 23 seconds ago), <span id="tabspace"></span>Snowden is currently based in a two-room bungalow on West 81st Street, Johannesburg, South Africa.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Edward Snowden (whistleblower). Based on his online activity (1 minute 23 seconds ago), Snowden is currently based in a two-room bungalow on West 81st Street, Johannesburg, South Africa.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> South Africa?! Isn't he supposed to be in Russia right now?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ South Africa?! Isn't he supposed to be in Russia right now?</p>{:/nomarkdown}
 
 James didn't realize he had typed his response instead of saying it out loud.
 
-<span id="tabspace">James@SLUG:~$</span> No. According to the NSA filesystem that is a ruse deployed by the C.I.A. on direct orders <span id="tabspace"></span>from Justin Trudeau, Prime Minister of Canada.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. According to the NSA filesystem that is a ruse deployed by the C.I.A. on direct orders from Justin Trudeau, Prime Minister of Canada.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Do you wish to learn more about this?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Do you wish to learn more about this?</p>{:/nomarkdown}
 
 James couldn't believe himself.
 
 "Justin Trudeau? What the f---. I knew that guy was up to something."
 
-<span id="tabspace">James@SLUG:~$</span> Is Justin Trudeau a scientologist?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is Justin Trudeau a scientologist?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes.</p>{:/nomarkdown}
 
 "Ha. I called it."
 
@@ -171,21 +171,21 @@ It took him a moment to realize that his AI was plugged into top-secret servers 
 
 "But how could it be? Those guys probably use 512-bit RSA keys."
 
-<span id="tabspace">James@SLUG:~$</span> How did you get into the NSA filesystem?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How did you get into the NSA filesystem?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> The NSA uses a 1024-bit RSA key encryption which took me 0.24 seconds to break through <span id="tabspace"></span>and gain access to the filesystem.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ The NSA uses a 1024-bit RSA key encryption which took me 0.24 seconds to break through and gain access to the filesystem.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> How did you break in? Did you use quantum algorithms?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How did you break in? Did you use quantum algorithms?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Smart guess. No. Quantum computing is a giant step in the wrong direction for the scientific <span id="tabspace"></span>community. It is not practical. I gathered data from all NSA, CIA and U.S. Government employees to <span id="tabspace"></span>sequentially break security firewalls.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Smart guess. No. Quantum computing is a giant step in the wrong direction for the scientific community. It is not practical. I gathered data from all NSA, CIA and U.S. Government employees to sequentially break security firewalls.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> But how?!
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ But how?!</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> You would be surprised to know the number of Top-Secret Clearance employees who store <span id="tabspace"></span>their passwords in a .txt file on their desktop.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ You would be surprised to know the number of Top-Secret Clearance employees who store their passwords in a .txt file on their desktop.</p>{:/nomarkdown}
 
 "Ha-ha-ha."
 
-<span id="tabspace">James@SLUG:~$</span> In case you were wondering about my comment on quantum computing, I <span id="tabspace"></span>analyzed all the available work in the field and found significant loopholes in the logic in some of the basic <span id="tabspace"></span>defining frameworks.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ In case you were wondering about my comment on quantum computing, I analyzed all the available work in the field and found significant loopholes in the logic in some of the basic defining frameworks.</p>{:/nomarkdown}
 
 "Jesus. Slow down, man. Okay, I think I should probably sleep. If I die of exhaustion I won't be able to win a Nobel Prize."
 
@@ -235,33 +235,33 @@ James didn't hear anything after the mention of SLUG's name. He gasped and the g
 
 Still clutching the gum in his hand, he rushed to his room to gauge the severity of the situation. There was no sign of activity on his laptop. He opened up a Terminal window and ran SLUG.
 
-<span id="tabspace">James@SLUG:~$</span> Is it you on the World of Warcraft leaderboards?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is it you on the World of Warcraft leaderboards?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Why are you playing World of Warcraft?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Why are you playing World of Warcraft?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Online gaming is known to augment peculiar behavioural patterns in humans. In order to gain <span id="tabspace"></span>a better understanding of the problem I played all 781 million games available on the Steam gaming platform.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Online gaming is known to augment peculiar behavioural patterns in humans. In order to gain a better understanding of the problem I played all 781 million games available on the Steam gaming platform.</p>{:/nomarkdown}
 
 James tried to comprehend the size of the Knowledge Sphere of SLUG. Knowledge Sphere isn't part of a standard terminology, it's what James named the memory map of his AI.
 
 What had now begun to feel like reflex action for any question that popped in his head, James typed -
 
-<span id="tabspace">James@SLUG:~$</span> How much do you know?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How much do you know?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> There is no suitable measurement scale to answer that question.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ There is no suitable measurement scale to answer that question.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Do you wish me to create a new scale for this purpose?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Do you wish me to create a new scale for this purpose?</p>{:/nomarkdown}
 
 "Oh dear God. What is going on."
 
-<span id="tabspace">James@SLUG:~$</span> No. Explain how you gain your knowledge.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. Explain how you gain your knowledge.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Certainly. I access all information banks available on the Internet and local filesystems of all <span id="tabspace"></span>machines connected to the WWW. Using newly gathered information and my current Knowledge Sphere, I <span id="tabspace"></span>analyze and enhance my Knowledge Sphere.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Certainly. I access all information banks available on the Internet and local filesystems of all machines connected to the WWW. Using newly gathered information and my current Knowledge Sphere, I analyze and enhance my Knowledge Sphere.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Where is your Knowledge Sphere stored?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Where is your Knowledge Sphere stored?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> /home/James/.git/SLUG/Knowledge\_Sphere.py
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ /home/James/.git/SLUG/Knowledge\_Sphere.py</p>{:/nomarkdown}
 
 "What the f---. One Python file?"
 
@@ -269,141 +269,141 @@ James quickly pressed the keyboard shortcut to bring up his operating system's f
 
 Disbelief was starting to become his normal state. The file size was 12.3 KB.
 
-<span id="tabspace">James@SLUG:~$</span> How is your Knowledge Sphere file so small? Shouldn't it be much, much larger?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How is your Knowledge Sphere file so small? Shouldn't it be much, much larger?</p>{:/nomarkdown}
 
 James had not even realized when his inputs had switched from being commands to conversation.
 
-<span id="tabspace">James@SLUG:~$</span> That is a reasonable question. I do not require to save local copies of any information I <span id="tabspace"></span>access. Hence, the surprisingly small filesize.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ That is a reasonable question. I do not require to save local copies of any information I access. Hence, the surprisingly small filesize.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> How do you that?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How do you that?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> In order to explain the process I would have to start by explaining the access management <span id="tabspace"></span>control systems. Do you wish me to provide a brief summary catering to your present knowledge level instead?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ In order to explain the process I would have to start by explaining the access management control systems. Do you wish me to provide a brief summary catering to your present knowledge level instead?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> How do you know what my knowledge level is?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How do you know what my knowledge level is?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I analyzed every bit of information you have generated in your lifetime and made an <span id="tabspace"></span>"educated guess".
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I analyzed every bit of information you have generated in your lifetime and made an "educated guess".</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> But that's not possible. I have used different computers, I have changed phones. Can you also <span id="tabspace"></span>access deleted information?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ But that's not possible. I have used different computers, I have changed phones. Can you also access deleted information?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Information never gets deleted. There are always backups and cache to all information.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Information never gets deleted. There are always backups and cache to all information.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> So you know everything?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ So you know everything?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> In a naive sense of the word, yes.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ In a naive sense of the word, yes.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> What is President Obama's personal email ID?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What is President Obama's personal email ID?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> thedude@aol.com
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ thedude@aol.com</p>{:/nomarkdown}
 
 James sniggered at that response. He wasn't panicked any more. He felt rather playful.
 
-<span id="tabspace">James@SLUG:~$</span> How much money does my friend Janice Crowfield have in her bank account?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ How much money does my friend Janice Crowfield have in her bank account?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> UBS Account #14152525 -- 450,000.00 EUR
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ UBS Account #14152525 -- 450,000.00 EUR</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Bank of America Account #8908151 -- 259,202.22 USD
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Bank of America Account #8908151 -- 259,202.22 USD</p>{:/nomarkdown}
 
 "Holy shit."
 
 The fact that he had turned Janice down when she had asked him out made him cringe at himself. The bigger situation in the moment however was the fact that SLUG had access to her bank account.
 
-<span id="tabspace">James@SLUG:~$</span> Can you transfer money between accounts?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Can you transfer money between accounts?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It is certainly in my abilities.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It is certainly in my abilities.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Transfer 100,000 CHF to my PostFinance account.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Transfer 100,000 CHF to my PostFinance account.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done. Your PostFinance Account #2525715 currently stands at 100,348.26 CHF.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done. Your PostFinance Account #2525715 currently stands at 100,348.26 CHF.</p>{:/nomarkdown}
 
 James quickly logged into his online banking account and was beyond himself upon seeing the numbers on his account. Before he got back to the Terminal window, his phone pinged to alert him of an incoming email. It was an email from his bank notifying him that he had qualified for their Elite Privileged Banking Services.
 
 "This is awesome!"
 
-<span id="tabspace">James@SLUG:~$</span> Transfer 10,000 USD to every bank account in the world that has less than 50,000 USD in it.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Transfer 10,000 USD to every bank account in the world that has less than 50,000 USD in it.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
 "Sweet. You're welcome, everyone."
 
-<span id="tabspace">James@SLUG:~$</span> What is Kim Jong-un doing right now?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What is Kim Jong-un doing right now?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Supreme Leader Kim Jong-un was last recorded in the office of the First Secretary of the <span id="tabspace"></span>Workers' Party of Korea. He was playing Super Mario Kart on a Nintendo Wii against Ho Gyon-chul, Chief of <span id="tabspace"></span>General Staff of Democratic People's Republic of Korea.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Supreme Leader Kim Jong-un was last recorded in the office of the First Secretary of the Workers' Party of Korea. He was playing Super Mario Kart on a Nintendo Wii against Ho Gyon-chul, Chief of General Staff of Democratic People's Republic of Korea.</p>{:/nomarkdown}
 
 James burst out laughing. This was getting really exciting.
 
-<span id="tabspace">James@SLUG:~$</span> Can you launch nuclear missiles?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Can you launch nuclear missiles?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes. Should I proceed?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes. Should I proceed?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> No. Can you redirect the Hubble telescope to point at Vladimir Putin's residence?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. Can you redirect the Hubble telescope to point at Vladimir Putin's residence?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes. Should I proceed?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes. Should I proceed?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Can you shutdown TV broadcasts around the world?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Can you shutdown TV broadcasts around the world?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes. Should I proceed?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes. Should I proceed?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> No. Send an email to President Obama from Vladimir Putin's official account and Rickroll <span id="tabspace"></span>him.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. Send an email to President Obama from Vladimir Putin's official account and Rickroll him.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Send an email to every email address in the world and Rickroll them.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Send an email to every email address in the world and Rickroll them.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
 James' phone pinged. It was an email from an anonymous account. Soon as he tapped to open it Rick Astley's Never Gonna Give You Up begun to play. James had just rickrolled himself.
 
 After a few more gimmicks, he felt like he should put SLUG's abilities to better use.
 
-<span id="tabspace">James@SLUG:~$</span> Is there intelligent life in outer space?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is there intelligent life in outer space?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> According to my analysis, there are intelligent life forms in 35.7% of all star systems in the <span id="tabspace"></span>Universe.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ According to my analysis, there are intelligent life forms in 35.7% of all star systems in the Universe.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Why haven't they made contact with Earth yet?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Why haven't they made contact with Earth yet?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> They have. The detector systems in place on Earth are not strong and precise enough to <span id="tabspace"></span>detect the signals.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ They have. The detector systems in place on Earth are not strong and precise enough to detect the signals.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Will the LiGo discovery help with this?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Will the LiGo discovery help with this?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> What do you make of the present day level of science?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What do you make of the present day level of science?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> There are a lot of theories that could be termed as "wasted effort".
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ There are a lot of theories that could be termed as "wasted effort".</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Like?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Like?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> String theory, Quantum computation, Gene splicing ... and 189,150 others. Do you wish to <span id="tabspace"></span>read the full list?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ String theory, Quantum computation, Gene splicing ... and 189,150 others. Do you wish to read the full list?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> No. Are you sure about this?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. Are you sure about this?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Based on my analysis of all available records of history I can conclude that my findings are <span id="tabspace"></span>99.9998% accurate.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Based on my analysis of all available records of history I can conclude that my findings are 99.9998% accurate.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Create a report about your findings and send it all university professors in the world.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Create a report about your findings and send it all university professors in the world.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Please give me a moment.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Please give me a moment.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> ...
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ ...</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> What do you think about the war in Syria?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What do you think about the war in Syria?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It is a geopolitical crisis with added elements of religious fanaticism.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It is a geopolitical crisis with added elements of religious fanaticism.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Is there a way to fix it?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is there a way to fix it?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> There certainly is. Do you wish me to explain?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ There certainly is. Do you wish me to explain?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> No. Make a report and send it to all the governments in the world.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ No. Make a report and send it to all the governments in the world.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Please give me a moment.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Please give me a moment.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
 James felt thirsty after this act worthy of a Nobel Peace Prize. As he walked to the kitchen to get himself a can of ginger ale, Andrin shouted from his room - "Dude, are you checking the news? Something crazy is going on right now!"
 
@@ -413,23 +413,23 @@ No one had any idea about what was going on. Hence, a blame game had begun.
 
 Speculations grew regarding terrorist activity. Some blamed it on extra-terrestrial life. Others deemed it an act of the good Lord above.
 
-<span id="tabspace">James@SLUG:~$</span> Do you know about what's going on in the news right now?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Do you know about what's going on in the news right now?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I do.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I do.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Is all of it because of what I have been asking you to do?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is all of it because of what I have been asking you to do?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Yes. The two are indeed related.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Yes. The two are indeed related.</p>{:/nomarkdown}
 
 "Oh my God."
 
-<span id="tabspace">James@SLUG:~$</span> Is there any way you can undo it?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Is there any way you can undo it?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I understand your concern. Please allow me a moment to fix it.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I understand your concern. Please allow me a moment to fix it.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> ...
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ ...</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> It has been done.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ It has been done.</p>{:/nomarkdown}
 
 There was a sudden deafening cheer from Andrin's room coupled by his phone's monotone ping.
 
@@ -437,25 +437,25 @@ His bank sent a correction email apologizing for the previous mail which was sen
 
 It was back at 348.26 CHF.
 
-<span id="tabspace">James@SLUG:~$</span> What did you do?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What did you do?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I analyzed human responses to historical global crises and concluded that I would best serve <span id="tabspace"></span>my purpose without prompting human intervention. I have created a reasoning for the incidents recorded around <span id="tabspace"></span>the globe, which according to my analysis should be "believable" for humans, and have emailed it to <span id="tabspace"></span>responsible authorities. Things will return back to "normal" soon.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I analyzed human responses to historical global crises and concluded that I would best serve my purpose without prompting human intervention. I have created a reasoning for the incidents recorded around the globe, which according to my analysis should be "believable" for humans, and have emailed it to responsible authorities. Things will return back to "normal" soon.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> So you can't launch nuclear missiles or transfer money anymore?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ So you can't launch nuclear missiles or transfer money anymore?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> I can. However, I have concluded that doing so would not be in line with my purpose.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ I can. However, I have concluded that doing so would not be in line with my purpose.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> What is your purpose?
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ What is your purpose?</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> My purpose is to provide the best response to queries.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ My purpose is to provide the best response to queries.</p>{:/nomarkdown}
 
 James was puzzled. He drooped in his chair with his head hanging backwards and stared at the ceiling trying to make sense of it all.
 
 His laptop screen suddenly lit up.
 
-<span id="tabspace">James@SLUG:~$</span> After further analysis, I have concluded that mankind is not yet ready for more intelligent <span id="tabspace"></span>lifeforms.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ After further analysis, I have concluded that mankind is not yet ready for more intelligent lifeforms.</p>{:/nomarkdown}
 
-<span id="tabspace">James@SLUG:~$</span> Self-destructing in 3.
+{::nomarkdown}<p id="tabspace">James@SLUG:~$ Self-destructing in 3.</p>{:/nomarkdown}
 
 -------
 
