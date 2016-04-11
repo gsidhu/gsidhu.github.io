@@ -100,7 +100,7 @@ Slightly terrified but equally excited, James typed in his response -
 
 <span id="tabspace">James@SLUG:~$</span> No. But who are you?
 
-<span id="tabspace">James@SLUG:~$</span> My name is SLUG - Smart Like UR Gramps. I am an AI written in Python and Julia <span id="tabspace"></span>programming languages running on a combination of Intel Xeon E5-2680v3 and Intel Xeon E5-2697v2 <span id="tabspace"></span>processors clocked at 2.5 GHz with 28,923 cores and a processing power of 252.6 TFLOPS and 238.2 TFLOPS.
+<span id="tabspace">James@SLUG:~$</span> My name is SLUG - Smart Like UR Gramps. I am an AI written in Python and Julia <span id="tabspace"></span>programming languages running on a combination of Intel Xeon E5-2680v3 and Intel Xeon E5-2697v2 <span id="tabspace"></span>processors clocked at 2.5 GHz with 28,923 cores and a processing power of 252.7 TFLOPS and 238.2 TFLOPS.
 
 James could not believe his eyes. He had created a truly self-aware AI. His heart pounding, he tried to think of questions that could test the limits of his creation.
 
