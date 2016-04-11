@@ -8,7 +8,7 @@ comments: True
 
 ### 23 Apr 2013
 
-The following article is my submission for the writing assignment of the introductory behavioral economics course I am taking on Coursera. Professor Dan Ariely is pretty funny and witty. I would recommend this course for everyone, there's great insights.
+<span id="first-letter">T</span>he following article is my submission for the writing assignment of the introductory behavioral economics course I am taking on Coursera. Professor Dan Ariely is pretty funny and witty. I would recommend this course for everyone, there's great insights.
 
 The in-video citations won't make sense to you, but you should still get it. Here goes:
 

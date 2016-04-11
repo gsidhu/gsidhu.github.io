@@ -11,7 +11,7 @@ comments: True
 This is a piece of flash fiction I'd left incomplete back in June 2013. I found it yesterday and decided to complete it. It's pretty short, please do read.  
 -------------------------------------
  
-"Why does it always happen to me?", thought Sparky as he dressed up for his final battle. "Every time I try to catch him, my plan gets washed away".  
+<span id="first-letter">"W</span>hy does it always happen to me?", thought Sparky as he dressed up for his final battle. "Every time I try to catch him, my plan gets washed away".  
 
 Sparky was on the lookout for a dreadful murderer - the infamous Ketchy Red Hands. Ketchy was a sociopath with 7 blood stained murders to his name. His unexpected attacks shook the very fabric of the city. Sadist that he was, he loved to strike when his victims were most joyous. Sparky knew he had to take him down, even if it meant he'd have to wash down every bit of his own self.  
  

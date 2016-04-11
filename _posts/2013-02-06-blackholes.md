@@ -8,7 +8,7 @@ comments: True
 
 ### 06 Feb 2013
 
-"I am a Physics major you see, I just _had_ to write about something to do with the Universe."
+<span id="first-letter">"I</span> am a Physics major you see, I just _had_ to write about something to do with the Universe."
 
 Why Black Holes then?
 

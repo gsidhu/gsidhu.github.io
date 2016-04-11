@@ -8,7 +8,7 @@ comments: True
 
 ### 27 Mar 2013
 
-I have a course on digital electronics this semester.
+<span id="first-letter">I</span> have a course on digital electronics this semester.
 
 Digital electronics is pretty interesting; the fact that everything inside my laptop or my smartphone is based on a tiny little thing called a flip flop, blows my mind. [**Flip flops**](http://en.wikipedia.org/wiki/Flip-flop_(electronics)){:target="_blank"} were just _open-toed sandals_ (that's what Wiki calls them) or _chappals_ (that's what we call them in India) till December last year. Now they are much, much more than that. _They are the Higgs Bosons to nearly all of electronics._
 

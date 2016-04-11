@@ -9,7 +9,7 @@ comments: True
 
 ### 09 May 2013
 
-I have returned to my old and faithful Nokia 1661. This phone’s USP is its flashlight and speaking clock. Pretty badass, huh? Well then here’s me ranting about why a feature phone is better than a smartphone:  
+<span id="first-letter">I</span> have returned to my old and faithful Nokia 1661. This phone’s USP is its flashlight and speaking clock. Pretty badass, huh? Well then here’s me ranting about why a feature phone is better than a smartphone:  
 
 * **Battery life.** You don’t have to charge a feature phone a dozen times a day. My Xperia needed a boost of some electric juice some 4 times a day for everyday usage. Give it to it bad and bam, your electricity bills gonna beat a rich Indian braggart on Diwali. However feature phones.. I mean they should sell these phones with battery life as their USP. This 3 year old faithful phone lasts me four days of power usage on an average full charge! Okay power usage for it is nothing beyond sending some 50 texts a day and playing Snake while in the loo, but you get me.
 * **Ruggedness.** This lovely thing once fell from some 10 feet and it didn’t even flinch. Once it fell out of my pocket while I was driving at 60 kph and still nothing. Although it got a teeny little dent on the top but no other bruises anywhere. Then there’s my Xperia, it is losing its color at the edges because of the safety jacket I am using for it. Tell me about it.

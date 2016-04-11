@@ -8,7 +8,7 @@ comments: True
 
 ### 02 Aug 2014
 
-I just finished reading The Communist Manifesto by Carl Marx and Fredreich Engels. The version I read was the very original print with a long introduction at the beginning and preface to all the subsequent editions at the end. To sum up my first take on it in a word - "Hmm."  
+<span id="first-letter">I</span> just finished reading The Communist Manifesto by Carl Marx and Fredreich Engels. The version I read was the very original print with a long introduction at the beginning and preface to all the subsequent editions at the end. To sum up my first take on it in a word - "Hmm."  
 
 Well, technically my first take, or my first communist idea was many years ago, around 2009 when I wrote this on [my deviantart page](https://lfcmaniac.deviantart.com) -  
 <blockquote> "Sometimes I go into a weird state of mind. The Save the World state of mind. I feel sad about the stupid things that happen all over the world. Terrorism, Global Warming, Economic Crisis, Racism,Illiteracy, Hunger, et al. It's really depressing at times. Global Warming and the dying Mother Nature are the most depressing of all. I am a hardcore water conservator, people at home fear me.
