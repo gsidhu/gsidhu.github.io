@@ -116,9 +116,9 @@ h1, h2, h3 {
 
 @media screen and (max-width: 396px) {
 	.navbar ul>li {
-		font-size: 18px;
-		padding-right: 5px;
-		padding-left: 5px;
+		font-size: 20px;
+		padding-right: 15px;
+		padding-left: 15px;
 	}
 }	
 .navbar, .navbar ul {
@@ -149,22 +149,29 @@ h1, h2, h3 {
 }
 
 /* ------------ Posts ------------ */
-.posts .post .post-title,
-.post .post-title {
+@media screen and (min-width: 396px) {
+	.posts .post .post-title {
+		font-size: 30px;
+	}
+}
+@media screen and (max-width: 396px) {
+	.posts .post .post-title {
+		font-size: 24px;
+	}
+}
+
+.posts .post .post-title {
 	text-align: center;
 	text-transform: uppercase;
-	font-size: 30px;
 	font-family: 'Economica', serif;
 	margin-top: 10px;	
 }
 
-.posts .post .post-title a,
-.post .post-title a {
+.posts .post .post-title a {
 	text-decoration: none;
 }
 
-.posts .post .post-title a:hover:before,
-.post .post-title a:hover:before {
+.posts .post .post-title a:hover:before {
 	visibility: visible;
 	transform: scaleX(1);
 }
