@@ -10,13 +10,15 @@ author:
   url:            https://twitter.com/gurjotsidhu
   email:	  gsidhu22@gmail.com
 
-paginate:         5
-paginate_path: 	  "/blog/page:num"
+paginate:         15
+paginate_path: 	  "/page:num"
 
 # Custom vars
 version:          1.0.0
 
 github:
   repo:           https://github.com/gsidhu/gsidhu.github.io
+
+gems:		  [jekyll-paginate]
 
 

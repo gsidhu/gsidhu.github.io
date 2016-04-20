@@ -1,0 +1,327 @@
+/* ------------ Site-wide Styles ------------ */
+a:hover, a:visited, a:link, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+hr {
+  width: 75%;
+}
+
+body, body p {
+	font-size: 16px;
+	font-family: 'PT Serif', Times, serif;
+}
+
+h1, h2, h3 {
+	margin: 10px auto 10px auto;
+	font-family: 'Economica', serif;
+	text-align: center;
+}
+
+.excerpt {
+	text-align: center;
+}
+
+/* ------------ hr Style ------------ */
+.divider {
+	width: 30%;
+	margin: 5% auto 5% auto;
+}
+
+.fullwide {
+  width: 100%;
+}
+
+#tabspace {
+  padding-left: 5em;
+}
+
+#first-letter {
+	font-size: 48px;
+	font-family: 'Economica', sans-serif;
+}
+
+/* ------------ Header ------------ */
+@media screen and (min-width: 396px) {
+	.header,
+	.footer {
+	  padding-right: 15px;
+	  padding-left: 15px;
+	}
+	/* Custom page header */
+	.header {
+	  line-height: 25px;
+	}
+	/* Make the masthead heading the same height as the navigation */
+	.header h3 {
+	  font-size: 20px;
+	}
+	.header h1 {
+	  font-size: 52px;
+	}
+}
+
+.header, .footer {
+  text-align: center;
+  font-family: 'Economica', sans-serif;
+}
+.header {
+  text-transform: uppercase;
+}
+.header a:hover:before {
+	visibility: visible;
+	transform: scaleX(1);
+}
+.header #title_underline {
+	width: 15%;
+	margin-top: -15px;
+}
+
+@media screen and (max-width: 396px) {
+	.header h3 {
+	  font-size: 16px;
+	  margin-bottom: 3%;
+	}
+	.header h1 {
+	  font-size: 36px;
+	}
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+/* ------------ Navigation Bar ------------ */
+@media screen and (min-width: 396px) {
+	.navbar ul>li {
+		font-size: 24px;
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+}
+
+@media screen and (max-width: 396px) {
+	.navbar ul>li {
+		font-size: 18px;
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+}	
+.navbar, .navbar ul {
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: none;
+	min-height: 18px;
+}
+.navbar ul>li {
+	vertical-align: middle;
+	display: inline;
+	border-right: 2px solid #000000;
+}
+.navbar ul>li:visited {
+	text-decoration: none;
+	color: #CC763E;
+}
+.navbar ul>li:hover {
+	color: #FF944D;
+	cursor:pointer;
+}
+.navbar ul>li:active {
+	color: #CC763E;
+}
+#except {
+	border-right: none;
+}
+
+/* ------------ Posts ------------ */
+.posts .post .post-title,
+.post .post-title {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: 'Economica', serif;
+	margin-top: 10px;	
+}
+
+.posts .post .post-title a,
+.post .post-title a {
+	text-decoration: none;
+}
+
+.posts .post .post-title a:hover:before,
+.post .post-title a:hover:before {
+	visibility: visible;
+	transform: scaleX(1);
+}
+
+.posts .post .post-date {
+	height: 100%;
+	margin: -1% 20% 10px 20%;
+	text-align: center;
+	font-family: 'Economica', serif;
+	font-size: 16px;
+}	
+
+.posts .post {
+	text-align: left;
+	font-size: 16px;
+	font-family: 'PT Serif', Times, serif;
+}
+
+.posts .post h1 {
+	font-size: 30px;
+}
+
+.posts .post h2 {
+	font-size: 20px;
+}
+
+.posts .post h3 {
+	font-size: 18px;
+	margin: -1% 20% auto 20%;
+}
+
+.posts .post a {
+	text-decoration: underline;
+}
+
+.posts .post ol strong a,
+.posts .post ul strong a {
+	text-decoration: none;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+/* ------------ Sharing Links ------------ */
+.share-page {
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Economica', sans-serif;
+	padding: 8px 15px;
+	margin: 1.5px;
+}
+.share-page a {
+	text-decoration: none;
+}
+.share-page a:hover {
+	border-bottom: 0.6px solid #000000;
+}
+
+/* ------------ Sticky Footer ------------ */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 132px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+}
+
+.footie {
+  margin-left: -15px;
+}
+
+/* ------------ Page Styles ------------ */
+/* To center content between header and footer */
+@media screen and (min-height: 315px) and (min-width: 600px) {
+    .cv, .stalk, .bio {
+	margin-top: calc(50vh - 220px);
+	}
+}
+
+@media screen and (max-height: 315px) and (max-width: 600px) {
+    .cv, .stalk, .bio {
+	margin-top: 5%;
+	}
+}
+
+#archive-list {
+	padding-left: 8%;
+}
+
+.bio img {
+	width: 150px;
+	height: 150px;
+}
+
+.bio>p {
+	text-align: center;
+}
+
+.cv {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 36px;
+	font-family: 'Economica', sans-serif;
+}
+
+.stalk ul {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 36px;
+	font-family: 'Economica', sans-serif;
+}
+
+.stalk li:hover {
+	border-bottom: 0.6px solid #000000;
+}
+
+body a {
+	position: relative;
+	color: inherit;
+	text-decoration: none;
+}
+
+body a:hover, .cv li a:hover {
+	color: #FF944D;
+	cursor:pointer;
+}
+
+body a:before, .cv li a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+
+/* ------------ 404 Page ------------ */
+
+.page-404 h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 36px;
+	font-family: 'Economica', sans-serif;	
+}
+
+.page-404 p {
+	text-align: center;
+	font-family: 'Economica', sans-serif;	
+	font-size: 20px;
+}

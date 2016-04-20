@@ -5,7 +5,7 @@ footer: plain
 ---
 
 <div class="posts">
-  {% for post in site.posts limit: 25 %}
+  {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	<h4 class="post-date">{{ post.date | date_to_string }}</h4>
@@ -15,8 +15,10 @@ footer: plain
   {% endfor %}
 </div>
 
-<! <div class="infinite-spinner">
-<!  <div class="bounce1">
-<!  <div class="bounce2">
-<!  <div class="bounce3">
-<! </div>
+<!--
+<div class="infinite-spinner">
+<div class="bounce1">
+<div class="bounce2">
+<div class="bounce3">
+</div>
+-->

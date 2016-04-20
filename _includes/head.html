@@ -1,8 +1,11 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <html xmlns="http://www.w3.org/1999/xhtml"
 	xmlns:og="http://ogp.me/ns#"
-	xmlns:fb="http://www.facebook.com/2008/fbml">
+	xmlns:fb="http://www.facebook.com/2008/fbml"/>
 
   <!-- Facebook Sharing Tags -->
   <meta property="fb:admins" content="1016966036" />
@@ -12,9 +15,6 @@
   <meta property="og:url" content="https://gsidhu.github.io{{ page.url }}" />
   <meta property="og:site_name" content="That Gurjot" />
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
   <title>
 	{{ page.title }}
   </title>
@@ -23,33 +23,21 @@
 
   <!-- Font -->
   <link href='https://fonts.googleapis.com/css?family=Economica:700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
   
-  <!-- CSS -->
-  <link href="{{ site.baseurl }}/public/css/style.css" rel="stylesheet" type="text/css">	
+  <!-- CSS 
+  <link href="/public/css/style.css" rel="stylesheet" type="text/css">	-->
+
+  <!-- Bootstrap -->
+  <link href="/public/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <!-- Additional CSS -->
+  <link href="/public/css/stylesheet.css" rel="stylesheet" type="text/css">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <!-- Smooth scroll up -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-	<script>
-	$(function() {
-	  $('a[href*=#]:not([href=#])').click(function() {
-	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-
-	      var target = $(this.hash);
-	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-	      if (target.length) {
-	        $('html,body').animate({
-	          scrollTop: target.offset().top
-	        }, 1000);
-	        return false;
-	      }
-	    }
-	  });
-	});
-	</script>
+  <!-- Pagination -->
+  <!--<script src="/js/infinite-jekyll.js"></script>-->
 
   <!-- Google Analytics -->
 	<script>
@@ -62,34 +50,4 @@
 	  ga('send', 'pageview');
 
 	</script>
-
-  <!-- Open External Links in New Tab -->
-  <script>
-	var links = document.links;
-
-	for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-	   if (links[i].hostname != window.location.hostname) {
-	       links[i].target = '_blank';
-	   } 
-	}
-  </script>
-
-  <!-- MathJaX -->
-  <script type="text/javascript"
-	src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
-
-	<div class="header">
-		<h1 title="A Weblog of Things of No Substantial Importance"><a href="{{ site.baseurl }}/index.html" id="top">That Gurjot</a></h1>
-
-		<h3> You Found Me </h3>
-		<hr>
-		<ul id ="navbar">
-			<li id="link1"><a href="{{ site.baseurl }}/index.html">Blog</a></li>
-			<li id="links"><a href="{{ site.baseurl }}/bio.html">Bio</a></li>
-			<li id="links"><a href="{{ site.baseurl }}/cv.html">CV</a></li>
-			<li id="except"><a href="{{ site.baseurl }}/stalk.html">Stalk</a></li>
-		</ul>
-		<hr>
-	</div>
 </head>

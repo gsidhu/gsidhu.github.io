@@ -166,7 +166,7 @@ hr {
 
 .content {
 	display: inline-block;
-	margin: 20px auto 0px 20%;
+	margin: 0px auto 0px 0%;
 	width: 60%;
 	height: 100%;
 }
@@ -284,7 +284,7 @@ blockquote {
 	vertical-align: center;
 	list-style-type: none;
 	display: inline;
-    margin-right: 25px;
+	margin-right: 25px;
 	text-decoration: none;
 }
 
@@ -394,10 +394,19 @@ blockquote {
 	border-bottom: 0.6px solid #000000;
 }
 
-/* ------------ Hacky stuff ------------ */
+/* ------------ Pagination ------------ */
 .pagination {
-	visibility: hidden;
+	visibility: visible;
+	font-family: 'Economica';
+	font-size: 18px;
+	text-align: center;
 }
+/*.pagination .next {
+	text-align: right;
+}
+.pagination .prev {
+	text-align: left;
+}*/
 
 /* ------------ Spinner ------------- */
 /*.infinite-spinner {
@@ -475,6 +484,7 @@ blockquote {
   }
 } 
 */
+
 /* ------------ 404 Page ------------ */
 
 .page-404 {

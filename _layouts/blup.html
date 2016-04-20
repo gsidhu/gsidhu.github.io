@@ -2,25 +2,29 @@
 <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
+
   <body>
-	<div class="posts">
-	<div class="post">
-	  {{ content }}
-    </div>
+  {% include header.html %}
 
-	{% include share-page.html %}
-	{% include post-navigation.html %}
-	{% include comments.html %}
+  <div class="container">
+	<div class="span12">
+		<div class="posts">
+		<div class="post">
+		{{ content }}
+		</div>
+	
+		{% include mathjax.html %}
+		{% include share-page.html %}
+		{% include post-navigation.html %}
+		{% include comments.html %}
 
-	</div>
-	{% if page.footer == "plain" %} 
-		{% include foot2.html %}
-	{% else %}
-		{% include foot.html %}
-	{% endif %}
-
+		{% if page.footer == "plain" %} 
+			{% include foot2.html %}
+		{% else %}
+			{% include foot.html %}
+		{% endif %}
+		</div>
+    	</div>
+  </div>
 </body>
-
-  
-
 </html>
