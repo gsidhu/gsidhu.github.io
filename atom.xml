@@ -18,6 +18,7 @@
    <title>{{ post.title }}</title>
    <link href="https://gsidhu.github.io{{ post.url }}"/>
    <pubdate>{{ post.date | date_to_xmlschema }}</pubdate>
+   <dc:creator> Gurjot Sidhu </dc:creator>
    <id>gsidhu.github.io{{ post.id }}</id>
    <description type="html">{{ post.excerpt | xml_escape }}</description>
  </item>
