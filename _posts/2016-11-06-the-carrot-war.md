@@ -17,8 +17,8 @@ Where was I? Oh yeah. Humans blew up the planet. Not literally, but close enough
 Here's what happened.
 
 After spending centuries, millenniums rather, we made little to no headway in the space frontier. Voyager IV got pretty far but then it met the same fate as the three before and so many after it - blip blip blip blip no-blip. I like to believe that it was a superior alien race that abducted our dear satellites but like the Cat Theory that we've been using to explain fundamental physics for a couple of hundred years, it's not falsifiable and so, no good. Cat theory is a follow-up hypothesis, very rigorous I give it that, to the age-old string theory. Strings weren't cutting it, so the big brains at Starvard decided that all matter was made of cats. Sounds amusing but listen to this. Our beloved feline creature here refers to Schrödinger's gedankenexperiment. Dead and alive? Remember? Yeah. Turns out old man Schrödinger had hit gold with his theory. Of course his idea provided only a rudimentary explanation. The furthest we got was that like his cat, the fundamental particles in the universe constantly switch between matter and anti-matter. So we decided to call them Cat particles. It made great revelations in its time I have to give it that. Here are a few noteworthy ones -   
-1. Dark matter is a calculation error. (This lead to a worldwide movement demanding better wages for interns and student assistants. Hilarious really.)
-2. Interstellar travel is impossible. There is no way we are ever getting away from Earth. (This led to mass hysteria and a record spike in conversion to Terrarism - a newfound religion that can be succinctly explained as Earth, one; God, zero.)
+1. Dark matter is a calculation error. (This lead to a worldwide movement demanding better wages for interns and student assistants. Hilarious really.)  
+2. Interstellar travel is impossible. There is no way we are ever getting away from Earth. (This led to mass hysteria and a record spike in conversion to Terrarism - a newfound religion that can be succinctly explained as Earth, one; God, zero.)  
 
 The Carrot War makes a lot more sense now, doesn't it? 
 
@@ -43,9 +43,9 @@ Billy chuckled as he remembered this incident. He had never once been able to so
 Buzo all this time was busy in his futile effort to retrieve the ball that had escaped into the anti-gravity layer. This necessitates an explanation. When the ISS was being turned into the ISIS, it was stripped of any unnecessary tools and devices. During this the magnets used to create a one g gravitational field in the station were replaced with cheaper American ones, which worked, but only so much. They were effective only till about two-hundred centimeters above the floor surface. Billy was a hundred-eighty-three centimeters tall so it was all right. Hence, the existence of the anti-gravity layer. It was a minor inconvenience but an inconvenience nonetheless.
 
 Billy took cognizance of the situation and created a three-step plan -   
-1. Stay in the ISIS until all food resources are exhausted. (Two days. Billy suffered from binge eating when under stress.)
-2. Fly back to Earth. (The easy bit. He punched in the coordinates and the escape pod did the rest.)
-3. Wing it from there. (He once survived the Escape Room on his own back in university when his colleagues ditched him and went to get pizza instead. How hard could this be?)
+1. Stay in the ISIS until all food resources are exhausted. (Two days. Billy suffered from binge eating when under stress.)  
+2. Fly back to Earth. (The easy bit. He punched in the coordinates and the escape pod did the rest.)  
+3. Wing it from there. (He once survived the Escape Room on his own back in university when his colleagues ditched him and went to get pizza instead. How hard could this be?)  
 
 He gazed at Earth as he put on his spacesuit for what was to be the final interstellar travel in the history of mankind. The pale blue dot now looked much prettier with the brown warts removed from it.
 
