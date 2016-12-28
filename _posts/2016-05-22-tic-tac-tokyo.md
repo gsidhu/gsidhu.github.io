@@ -10,7 +10,8 @@ mathjax: False
 ### 22 May 2016
 
 I performed my first stand-up comedy gig at Open Mike's Comedy Nights last night. Here's the set -  
-{% include youtube_embed.html id="LQwrVn-D17M" %}
+
+<p style="text-align:center">{% include youtube_embed.html id="LQwrVn-D17M" %}</p>
 
 Like it? Share it!
 
