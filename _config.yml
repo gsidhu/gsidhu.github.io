@@ -8,17 +8,11 @@ permalink:        /blog/:title
 author:
   name:           'Gurjot Sidhu'
   url:            https://gsidhu.github.io
-  email:	  	gsidhu22@gmail.com
-
-paginate:         10
-paginate_path: 	  "/page:num"
+  email:	  	  gsidhu22@gmail.com
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 
 github:
   repo:           https://github.com/gsidhu/gsidhu.github.io
-
-#gems:		  [jekyll-paginate]
-
 
